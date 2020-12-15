@@ -20,7 +20,7 @@
             <!-- Sidebar Holder -->
             <nav id="sidebar">
                 <div class="sidebar-header">
-                    <h3>Bootstrap Sidebar</h3>
+                    <h3>HOME</h3> 
                 </div>
                 <ul class="list-unstyled components">
                     <p>Welcome</p>
